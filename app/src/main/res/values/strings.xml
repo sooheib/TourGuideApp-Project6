@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tour Guide Tunisia</string>
+    <string name="action_settings">Settings</string>
+    <string name="ActivityHeader">HEader</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Search</string>
+    <!--Shopping-->
+        <string name="shopping1Name">Tunisia Mall</string>
+        <string name="shopping2Name">Carrefour</string>
+        <string name="shopping3Name">Geant</string>
+        <string name="shopping1Desc">
+            Address: LAC2, Tunisia
+        </string>
+        <string name="shopping2Desc">
+            Address: Croisement RN9/RN10، SIDI DAOUD - TUNIS 2046, Tunisia
+        </string>
+        <string name="shopping3Desc">
+            Address: Cebalat, Tunisia
+        </string>
+
+
+    <!--Restaurant-->
+        <string name="restoran1Name">Carpediem</string>
+        <string name="restoran2Name">Dar El Jeld</string>
+        <string name="restoran1Desc">
+            Address: Route de la Marsa, Tunis 2079, Tunisia
+        </string>
+        <string name="restoran2Desc">
+            Address: Rue Dar El Jeld, Tunis, Tunisia
+        </string>
+    <!--Attractions-->
+        <string name="attractions1Name">Bardo National Museum</string>
+        <string name="attractions2Name">Great Mosque of Kairouan</string>
+        <string name="attractions3Name">El Ghriba synagogue</string>
+    <string name="attractions4Name">Amphitheatre of El Jem</string>
+
+        <string name="attractions1Desc">
+            Address: Route Nationale 7, Tunisia
+        </string>
+        <string name="attractions2Desc">
+            Address: Rue De La Kasbah, Kairouan, Tunisia
+        </string>
+        <string name="attractions3Desc">
+            Address: P17, El Kef, Tunisia
+        </string>
+         <string name="attractions4Desc">
+            Address: El Jem, Tunisia
+        </string>
+
+    <!--Cinema-->
+        <string name="cinema1Name">L AGORA</string>
+        <string name="cinema2Name">Theatre</string>
+        <string name="cinema3Name">Times Square CINEMA</string>
+        <string name="cinema1Desc">
+            Address:  5 Marsa Ville 2070 La Marsa, Avenue Taieb Mhiri, Marsa 2070, Tunisia
+        </string>
+        <string name="cinema2Desc">
+            Address: 2 Rue de Greece, Tunis, Tunisia
+        </string>
+</resources>
